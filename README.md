@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
   <img src="200w.gif" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>The Space Travelers' Hub</b></h3>
+  <h3><b>Metrics webapp</b></h3>
 
 </div>
 
@@ -60,9 +60,13 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [The Space Travelers' Hub] <a name="about-project"></a>
+# 📖 [Metrics webapp] <a name="about-project"></a>
 
-**[The Space Travelers' Hub]** is a web application for a company that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions. The Space Travelers' Hub consists of Rockets, Missions, and the My Profile section.
+**[Metrics webapp]** is a web application base on Air Pollution API of open weather(https://openweathermap.org/). Provides current, forecast and historical air pollution data for any coordinates on the globe.
+
+Besides basic Air Quality Index, the API returns data about polluting gases, such as Carbon monoxide (CO), Nitrogen monoxide (NO), Nitrogen dioxide (NO2), Ozone (O3), Sulphur dioxide (SO2), Ammonia (NH3), and particulates (PM2.5 and PM10).
+
+Air pollution forecast is available for 4 days with hourly granularity. Historical data is accessible from 27th November 2020.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -82,8 +86,8 @@ After you're finished please remove all the comments and instructions!
   <ul>
     <li><a href="https://expressjs.com/">Express.js</a></li>
   </ul>
-</details>
-
+</details> -->
+<!-- 
 <details>
 <summary>Database</summary>
   <ul>
@@ -97,12 +101,11 @@ After you're finished please remove all the comments and instructions!
 
 >
 
-- **[Rockets /Dragons]**
-  The Rockets section displays a list of all available SpaceX rockets. Users can book each rocket by clicking the reservation button or cancel the previously made booking.
-- **[Missions]**
-  The Missions section displays a list of current missions along with their brief description and participation status. There is also a button next to each mission that allows users to join the selected mission or leave the mission the user joined earlier.
-- **[My Profile]**
-  The My Profile section displays all reserved rockets and space missions.
+- **[Current air pollution data]**
+
+- **[Forecast air pollution data]**
+
+- **[Historical air pollution data]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -140,7 +143,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/imranhossainemi/space_travelers_hub.git
+  git clone https://github.com/imranhossainemi/metrics_webapp_project.git
 ```
 
 ### Install
@@ -148,7 +151,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd space_travelers_hub
+  cd metrics_webapp_project
   npm install
 ```
 
@@ -180,19 +183,13 @@ You can deploy this project using:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👤 Author <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [@imranhossainemi](https://github.com/imranhossainemi)
-<!-- - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle) -->
-
-👤 **Author2**
-
-- GitHub: [@byiringiroscar](https://github.com/byiringiroscar)
 <!-- - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle) -->
 
@@ -234,7 +231,7 @@ If you like this project Follow and give Star
 
 >
 
-I would like to thank Oscar Byiringiro
+I would like to thank
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -258,6 +255,6 @@ I would like to thank Oscar Byiringiro
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/imranhossainemi/space_travelers_hub/blob/master/MIT.md) licensed.
+This project is [MIT](https://github.com/imranhossainemi/metrics_webapp_project/blob/master/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
