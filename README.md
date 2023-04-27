@@ -62,7 +62,8 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Metrics webapp] <a name="about-project"></a>
 
-**[Metrics webapp]** is a web application base on API
+**[Metrics webapp]** is a web application base on API .
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -97,7 +98,8 @@ After you're finished please remove all the comments and instructions!
 
 >
 
-- **[Stock list]**
+
+- **[ Stock list ]**
 
 - **[Stock details]**
 
