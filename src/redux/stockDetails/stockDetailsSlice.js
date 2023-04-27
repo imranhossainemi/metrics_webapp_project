@@ -1,5 +1,4 @@
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
-import axios from 'axios';
 
 const key = '?apikey=9eb223102d06629a659db2e7283983fd';
 const stockDetailsUrl = 'https://financialmodelingprep.com/api/v3/quote/';
@@ -13,7 +12,7 @@ const initialState = {
 
 export const fetchStockDetails = createAsyncThunk('stockDetails/fetchStockDetails', async (symbol) => {
   try {
-    const response = await axios.get(stockDetailsUrl + symbol + key);
+    const response = await stockDetailsUrl + symbol + key;
     return response.data;
   } catch (error) {
     return error.message;
