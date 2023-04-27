@@ -64,7 +64,6 @@ After you're finished please remove all the comments and instructions!
 
 **[Metrics webapp]** is a web application base on API .
 
-
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -97,7 +96,6 @@ After you're finished please remove all the comments and instructions!
 ### Key Features <a name="key-features"></a>
 
 >
-
 
 - **[ Stock list ]**
 
@@ -227,7 +225,7 @@ If you like this project Follow and give Star
 
 >
 
-I would like to thank
+I would like to thank Original design idea by Nelson Sakwa on Behance(https://www.behance.net/sakwadesignstudio).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
