@@ -63,7 +63,7 @@ After you're finished please remove all the comments and instructions!
 # 📖 [Metrics webapp] <a name="about-project"></a>
 
 **[Metrics webapp]** is a web application base on API .
-Video description of this project: Link(https://www.loom.com/share/ad1ad6ac04744a67b8019534c48066a2)
+Video description of this project: [Link](https://www.loom.com/share/27e706eebea949ec9bd0b2e46f0ffbbb)
 
 ## 🛠 Built With <a name="built-with"></a>
 
