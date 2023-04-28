@@ -7,8 +7,8 @@ const Navbar = () => (
   <>
     <nav>
       <div className="navLinks">
-        <NavLink className="link" to="/"><FontAwesomeIcon icon={faArrowLeft} /></NavLink>
-        <NavLink className="link" to="/">
+        <NavLink className="link" to="/metrics_webapp_project/"><FontAwesomeIcon icon={faArrowLeft} /></NavLink>
+        <NavLink className="link" to="/metrics_webapp_project/">
           Stocks
         </NavLink>
 

@@ -10,8 +10,8 @@ function App() {
       <div className="App">
         <Navbar />
         <Routes>
-          <Route exact path="/" element={<StocksList />} />
-          <Route path="/stockdetails/:symbol" element={<StockDetails />} />
+          <Route exact path="/metrics_webapp_project/" element={<StocksList />} />
+          <Route path="/metrics_webapp_project/stockdetails/:symbol" element={<StockDetails />} />
         </Routes>
       </div>
     </Router>
