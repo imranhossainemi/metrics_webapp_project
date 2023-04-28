@@ -63,6 +63,7 @@ After you're finished please remove all the comments and instructions!
 # 📖 [Metrics webapp] <a name="about-project"></a>
 
 **[Metrics webapp]** is a web application base on API .
+Video description of this project: [Link](https://www.loom.com/share/27e706eebea949ec9bd0b2e46f0ffbbb)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -109,7 +110,7 @@ After you're finished please remove all the comments and instructions!
 
 >
 
-- [Live Demo Link](#)
+- [Live Demo Link](https://monumental-douhua-d57142.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -225,7 +226,7 @@ If you like this project Follow and give Star
 
 >
 
-I would like to thank
+I would like to thank Original design idea by Nelson Sakwa on Behance(https://www.behance.net/sakwadesignstudio).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
