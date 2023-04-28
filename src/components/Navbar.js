@@ -15,9 +15,6 @@ const Navbar = () => (
         <NavLink className="link" to="#">
           <FontAwesomeIcon icon={faMicrophone} />
         </NavLink>
-        {/* <NavLink className="link" to="/myprofile">
-          My Profile
-        </NavLink> */}
       </div>
     </nav>
   </>
