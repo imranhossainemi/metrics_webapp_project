@@ -62,11 +62,8 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Metrics webapp] <a name="about-project"></a>
 
-**[Metrics webapp]** is a web application base on Air Pollution API of open weather(https://openweathermap.org/). Provides current, forecast and historical air pollution data for any coordinates on the globe.
-
-Besides basic Air Quality Index, the API returns data about polluting gases, such as Carbon monoxide (CO), Nitrogen monoxide (NO), Nitrogen dioxide (NO2), Ozone (O3), Sulphur dioxide (SO2), Ammonia (NH3), and particulates (PM2.5 and PM10).
-
-Air pollution forecast is available for 4 days with hourly granularity. Historical data is accessible from 27th November 2020.
+**[Metrics webapp]** is a web application base on API .
+Video description of this project: [Link](https://www.loom.com/share/27e706eebea949ec9bd0b2e46f0ffbbb)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -101,11 +98,9 @@ Air pollution forecast is available for 4 days with hourly granularity. Historic
 
 >
 
-- **[Current air pollution data]**
+- **[ Stock list ]**
 
-- **[Forecast air pollution data]**
-
-- **[Historical air pollution data]**
+- **[Stock details]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -115,7 +110,7 @@ Air pollution forecast is available for 4 days with hourly granularity. Historic
 
 >
 
-- [Live Demo Link](#)
+- [Live Demo Link](https://monumental-douhua-d57142.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -231,7 +226,7 @@ If you like this project Follow and give Star
 
 >
 
-I would like to thank
+I would like to thank Original design idea by Nelson Sakwa on Behance(https://www.behance.net/sakwadesignstudio).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+:root {
+  --blueViolet: blueviolet;
+  --white: #fff;
+  --pink: rgb(240, 57, 185);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  color: var(--white);
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+}
+
+.navLinks {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1.5rem;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.link:hover {
+  transform: scale(2);
+  transition: all 0.5s ease-out;
+}
+
+.search-bar {
+  display: flex;
+  justify-content: center;
+  margin-top: 1.5rem;
+}
+
+.search-input {
+  border: none;
+  border-radius: 5px;
+  height: 1.5rem;
+  width: 50%;
+  color: var(--pink);
+  margin-bottom: 1rem;
+}
+
+.container {
+  display: inline-flex;
+  width: 50%;
+  justify-content: center;
+  background-color: var(--pink);
+  min-height: 150px;
+}
+
+.container li {
+  list-style: none;
+  padding: 1rem 0.5rem;
+  cursor: pointer;
+  align-items: center;
+  line-height: 1.5;
+}
+
+.container:nth-child(4n-1),
+.container:nth-child(4n-2) {
+  background-color: var(--blueViolet);
+}
+
+.stock-details li {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+}
+
+.stock-details li:nth-child(odd) {
+  background-color: var(--blueViolet);
+}
+
+.stock-details li:nth-child(even) {
+  background-color: var(--pink);
+}
+
+.stock-details {
+  line-height: 1.6;
+  margin-top: 1rem;
+}
+
+@media screen and (min-width: 768px) {
+  * {
+    font-size: 1.2rem;
+  }
+}
