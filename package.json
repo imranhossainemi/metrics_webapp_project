@@ -1,6 +1,7 @@
 {
   "name": "metrics_webapp_project",
   "version": "0.1.0",
+  "homepage": "https://imranhossainemi.github.io/metrics_webapp_project",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
@@ -13,6 +14,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -35,8 +38,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-<<<<<<< Updated upstream
-=======
   },
   "devDependencies": {
     "@babel/core": "^7.21.4",
@@ -55,6 +56,5 @@
     "stylelint-config-standard": "^21.0.0",
     "stylelint-csstree-validator": "^1.9.0",
     "stylelint-scss": "^3.21.0"
->>>>>>> Stashed changes
   }
 }
