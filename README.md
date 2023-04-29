@@ -110,7 +110,7 @@ Video description of this project: [Link](https://www.loom.com/share/27e706eebea
 
 >
 
-- [Live Demo Link](https://monumental-douhua-d57142.netlify.app/)
+- [Live Demo Link](https://imranhossainemi.github.io/metrics_webapp_project/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
